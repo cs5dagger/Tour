@@ -38,7 +38,7 @@
 
     <string-array name="list_event_names">
         <item>made up Festival</item>
-        <item>FEZEN</item>
+        <item>Music Day</item>
         <item>Royal Days</item>
         <item>All Eating Day</item>
         <item>National Army Parade</item>
@@ -55,12 +55,12 @@
     </string-array>
 
     <string-array name="list_event_opening_hours">
-        <item>2017. June 24.</item>
-        <item>2017. August 02. - 2017. August 05.</item>
-        <item>2017. August 11. - 2017. August 20.</item>
-        <item>2017. September 10.</item>
-        <item>2017. September 23. - 2017. September 29.</item>
-        <item>2017. December 01. - 2017. December 24.</item>
+        <item>June 24.</item>
+        <item>August 02. - August 05.</item>
+        <item>August 11. - August 20.</item>
+        <item>September 10.</item>
+        <item>September 23. - September 29.</item>
+        <item>December 01. - December 24.</item>
     </string-array>
 
     <array name="list_event_images">
@@ -106,41 +106,5 @@
         <item>@drawable/jak</item>
         <item>@drawable/kistuba_boarding_house</item>
         <item>@drawable/vadaszkurt_hotel</item>
-    </array>
-
-    <string-array name="list_restaurant_names">
-        <item>Diófa Restaurant</item>
-        <item>Szárcsa Restaurant</item>
-        <item>Kiskulacs Restaurant</item>
-        <item>Kertész Inn</item>
-        <item>Vörösmarty Confectionery</item>
-        <item>Soho Restaurant and Five X Bowling Center</item>
-    </string-array>
-
-    <string-array name="list_restaurant_addresses">
-        <item>8000</item>
-        <item>8000</item>
-        <item>8000</item>
-        <item>8000</item>
-        <item>8000</item>
-        <item>8000</item>
-    </string-array>
-
-    <string-array name="list_restaurant_opening_hours">
-        <item>Opening Hours: 11:00-23:00</item>
-        <item>Opening hours: 11:00-22:00</item>
-        <item>Opening hours: 11:00-22:00</item>
-        <item>Opening hours: 10:00-22:00</item>
-        <item>Opening hours: 9:00-21:00</item>
-        <item>Opening hours: 11:00-24:00</item>
-    </string-array>
-
-    <array name="list_restaurant_images">
-        <item>@drawable/diofa_restaurant</item>
-        <item>@drawable/szarcsa_restaurant</item>
-        <item>@drawable/kiskulacs_restaurant</item>
-        <item>@drawable/kertesz_inn</item>
-        <item>@drawable/vorosmarty_confectionery</item>
-        <item>@drawable/soho_restaurant</item>
     </array>
 </resources>

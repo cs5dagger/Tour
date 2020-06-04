@@ -19,7 +19,7 @@ public class SearchFragment extends Fragment {
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         //EVENTS
 
-        View rootView =  inflater.inflate(R.layout.fragment_search,container,false);
+        View rootView =  inflater.inflate(R.layout.fragment_local_attraction,container,false);
 
         final ArrayList<LocalAttraction> events = new ArrayList<>();
 

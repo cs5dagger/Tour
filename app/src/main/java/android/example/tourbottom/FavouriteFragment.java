@@ -18,7 +18,7 @@ public class FavouriteFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         //ACCOMODATIONS
-        View rootView = inflater.inflate(R.layout.fragment_favourites,container,false);
+        View rootView = inflater.inflate(R.layout.fragment_local_attraction,container,false);
 
         final ArrayList<LocalAttraction> accomodations = new ArrayList<>();
 

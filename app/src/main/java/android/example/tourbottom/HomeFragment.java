@@ -20,7 +20,7 @@ public class HomeFragment extends Fragment {
         //ATTRACTIONS
 
         View rootView =  inflater.inflate(R.layout.fragment_home,container,false);
-
+        View list = inflater.inflate(R.layout.fragment_local_attraction,container,false);
         final ArrayList<LocalAttraction> attractions = new ArrayList<>();
 
         final String[] attractionNames = getResources().getStringArray(R.array.list_attraction_names);
@@ -36,10 +36,10 @@ public class HomeFragment extends Fragment {
 
         LocalAttractionAdapter adapter = new LocalAttractionAdapter(getActivity(), attractions);
 
-        ListView listView = (ListView) rootView.findViewById(R.id.list_local_attraction);
+        ListView listView = (ListView) list.findViewById(R.id.list_local_attraction);
 
         listView.setAdapter(adapter);
 
-        return rootView;
+        return list;
     }
 }

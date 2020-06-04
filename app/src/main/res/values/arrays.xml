@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_attraction_names">
+        <item>India Gates Garden</item>
+        <item>Red Fort</item>
+        <item>Lotus temple</item>
+        <item>Jama Masjid</item>
+        <item>open air museum</item>
+        <item>Connaught Place</item>
+    </string-array>
+
+    <string-array name="list_attraction_addresses">
+        <item>India Gate</item>
+        <item>Red Fort</item>
+        <item>Lotus temple road</item>
+        <item>Chandni chowk</item>
+        <item>open air museum</item>
+        <item>connaught place</item>
+    </string-array>
+
+    <string-array name="list_attraction_opening_hours">
+        <item>Opening hours: 9:00-17:00</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: 9:00-17:00</item>
+        <item>Opening hours: 7:00-19:00</item>
+        <item>Opening hours: 10:00-17:00</item>
+        <item>Opening hours: Open 24 hours</item>
+    </string-array>
+
+    <array name="list_attraction_images">
+        <item>@drawable/national_memorial_place</item>
+        <item>@drawable/orb_and_town_hall_square</item>
+        <item>@drawable/bory_castle</item>
+        <item>@drawable/st_stephen_cathedral</item>
+        <item>@drawable/open_air_museum</item>
+        <item>@drawable/flower_clock</item>
+    </array>
+
+    <string-array name="list_event_names">
+        <item>made up Festival</item>
+        <item>FEZEN</item>
+        <item>Royal Days</item>
+        <item>All Eating Day</item>
+        <item>National Army Parade</item>
+        <item>Sunburn festival</item>
+    </string-array>
+
+    <string-array name="list_event_addresses">
+        <item>Made up gardens</item>
+        <item>No idea</item>
+        <item>lotus temple</item>
+        <item>Paranthe waali gali</item>
+        <item>Vijay chowk</item>
+        <item>NO idea</item>
+    </string-array>
+
+    <string-array name="list_event_opening_hours">
+        <item>2017. June 24.</item>
+        <item>2017. August 02. - 2017. August 05.</item>
+        <item>2017. August 11. - 2017. August 20.</item>
+        <item>2017. September 10.</item>
+        <item>2017. September 23. - 2017. September 29.</item>
+        <item>2017. December 01. - 2017. December 24.</item>
+    </string-array>
+
+    <array name="list_event_images">
+        <item>@drawable/iron_and_fire_festival</item>
+        <item>@drawable/fezen</item>
+        <item>@drawable/royal_days</item>
+        <item>@drawable/flying_day</item>
+        <item>@drawable/national_army_festival</item>
+        <item>@drawable/advent</item>
+    </array>
+
+    <string-array name="list_accomodation_names">
+        <item>Shangrila hotel</item>
+        <item>Radisson Blu</item>
+        <item>The Taj palace</item>
+        <item>The taj mahal hotel</item>
+        <item>ITC Maurya</item>
+        <item>The Claridges hotel</item>
+    </string-array>
+
+    <string-array name="list_accomodation_addresses">
+        <item>Connaught place</item>
+        <item>Connaught place</item>
+        <item>Diplomatic Enclave</item>
+        <item>Mansingh road</item>
+        <item>Diplomatic Enclave</item>
+        <item>Aurangzeb Road</item>
+    </string-array>
+
+    <string-array name="list_accomodation_opening_hours">
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+    </string-array>
+
+    <array name="list_accomodation_images">
+        <item>@drawable/hotel_king</item>
+        <item>@drawable/lakeside_hotel</item>
+        <item>@drawable/szarcsa_hotel</item>
+        <item>@drawable/jak</item>
+        <item>@drawable/kistuba_boarding_house</item>
+        <item>@drawable/vadaszkurt_hotel</item>
+    </array>
+
+    <string-array name="list_restaurant_names">
+        <item>Diófa Restaurant</item>
+        <item>Szárcsa Restaurant</item>
+        <item>Kiskulacs Restaurant</item>
+        <item>Kertész Inn</item>
+        <item>Vörösmarty Confectionery</item>
+        <item>Soho Restaurant and Five X Bowling Center</item>
+    </string-array>
+
+    <string-array name="list_restaurant_addresses">
+        <item>8000</item>
+        <item>8000</item>
+        <item>8000</item>
+        <item>8000</item>
+        <item>8000</item>
+        <item>8000</item>
+    </string-array>
+
+    <string-array name="list_restaurant_opening_hours">
+        <item>Opening Hours: 11:00-23:00</item>
+        <item>Opening hours: 11:00-22:00</item>
+        <item>Opening hours: 11:00-22:00</item>
+        <item>Opening hours: 10:00-22:00</item>
+        <item>Opening hours: 9:00-21:00</item>
+        <item>Opening hours: 11:00-24:00</item>
+    </string-array>
+
+    <array name="list_restaurant_images">
+        <item>@drawable/diofa_restaurant</item>
+        <item>@drawable/szarcsa_restaurant</item>
+        <item>@drawable/kiskulacs_restaurant</item>
+        <item>@drawable/kertesz_inn</item>
+        <item>@drawable/vorosmarty_confectionery</item>
+        <item>@drawable/soho_restaurant</item>
+    </array>
+</resources>

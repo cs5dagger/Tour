@@ -1,0 +1,2 @@
+rootProject.name='TourBottom'
+include ':app'
